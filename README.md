@@ -73,7 +73,7 @@
 ---
 
 ### 📧 Email:
-**tharushikalpani2003@gmail.com**
+**k.a.akilainduwara@gmail.com**
 
 ---
 
