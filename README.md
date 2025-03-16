@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=800&height=70&lines=👋+Hi,+I'm+Tharushi+Thennakoon" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=800&height=70&lines=👋+Hi,+I'm+Akila+Induwara" />
   </h1>
 </div>
 
@@ -38,12 +38,12 @@
 ### GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharu-thennakoon&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tharu-thennakoon&theme=react&hide_border=true&stroke=0000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akilaiduwara&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akilaiduwara&theme=react&hide_border=true&stroke=0000" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharu-thennakoon&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akilaiduwara&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -51,7 +51,7 @@
 ### Most Used Languages:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharu-thennakoon&theme=react&layout=compact&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaiduwara&theme=react&layout=compact&hide_border=true" width="50%" />
 </div>
 
 ---
@@ -59,13 +59,13 @@
 ### Connect with Me ⚡
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tharushi-thennakoon-579ab6280" target="_blank">
+  <a href="www.linkedin.com/in/akila-induwara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/tharu-thennakoon" target="_blank">
+  <a href="[https://github.com/tharu-thennakoon](https://github.com/akilaIduwara)" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/tharu.u_?igsh=c3pkamo2YTVsa204" target="_blank">
+  <a href="[https://www.instagram.com/tharu.u_?igsh=c3pkamo2YTVsa204](https://www.instagram.com/akil_induwara?igsh=MWYzb3hsaXVpYTMxbQ%3D%3D&utm_source=qr)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
