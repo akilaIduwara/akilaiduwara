@@ -12,10 +12,9 @@
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500">
 </div>
 
-
 ---
 
-### Tech Stack:
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -35,7 +34,7 @@
 
 ---
 
-### GitHub Stats:
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akilaiduwara&show_icons=true&theme=react&hide_border=true" width="48%" />
@@ -48,7 +47,7 @@
 
 ---
 
-### Most Used Languages:
+### 🗣️ Most Used Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaiduwara&theme=react&layout=compact&hide_border=true" width="50%" />
@@ -56,23 +55,23 @@
 
 ---
 
-### Connect with Me ⚡
+### 🤝 Connect with Me
 
 <div align="center">
-  <a href="www.linkedin.com/in/akila-induwara" target="_blank">
+  <a href="https://www.linkedin.com/in/akila-induwara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://github.com/tharu-thennakoon](https://github.com/akilaIduwara)" target="_blank">
+  <a href="https://github.com/akilaIduwara" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://www.instagram.com/tharu.u_?igsh=c3pkamo2YTVsa204](https://www.instagram.com/akil_induwara?igsh=MWYzb3hsaXVpYTMxbQ%3D%3D&utm_source=qr)" target="_blank">
+  <a href="https://www.instagram.com/akil_induwara?igsh=MWYzb3hsaXVpYTMxbQ%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 ---
 
-### 📧 Email:
+### 📧 Email
 **k.a.akilainduwara@gmail.com**
 
 ---
