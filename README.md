@@ -1,175 +1,122 @@
+# Akila Induwara Kaluarachchi
+
+![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CBBF7&random=false&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
-<!-- Title with ASCII art border -->
-<div align="center">
-  <pre>
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                                                                  ║
-  ║   █████╗ ██╗  ██╗██╗██╗      █████╗     ██╗███╗   ██╗██████╗    ║
-  ║  ██╔══██╗██║ ██╔╝██║██║     ██╔══██╗    ██║████╗  ██║██╔══██╗   ║
-  ║  ███████║█████╔╝ ██║██║     ███████║    ██║██╔██╗ ██║██║  ██║   ║
-  ║  ██╔══██║██╔═██╗ ██║██║     ██╔══██║    ██║██║╚██╗██║██║  ██║   ║
-  ║  ██║  ██║██║  ██╗██║███████╗██║  ██║    ██║██║ ╚████║██████╔╝   ║
-  ║  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝╚═╝  ╚═══╝╚═════╝    ║
-  ║                                                                  ║
-  ╚══════════════════════════════════════════════════════════════════╝
-  </pre>
-</div>
-
-<!-- Animated SVG typing effect -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=6C63FF&center=true&vCenter=true&repeat=false&random=false&width=600&height=50&lines=Computer+Science+%7C+Machine+Learning+%7C+Full+Stack+Developer;University+of+Westminster+%7C+Innovator+%7C+Problem+Solver" alt="Typing SVG" /></a>
-</div>
-
-<!-- Unique badges with custom styling -->
 <p align="center">
-  <a href="mailto:k.a.akilainduwara@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-k.a.akilainduwara@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/AkilaInduwara">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Github-333333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/akila-induwara/">
-    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="tel:+94712025476">
-    <img src="https://custom-icon-badges.demolab.com/badge/-071_2025476-green?style=for-the-badge&logo=phone&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/akila-induwara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:k.a.akilainduwara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/AkilaInduwara"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://akila-induwara-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<!-- Creative visualization of skills as a code terminal -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkilaInduwara&style=for-the-badge&color=6C63FF" alt="Profile views"/>
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-<!-- Terminal-style skills display -->
-<div align="center">
-  <h2>🖥️ Terminal: Skills.exe 🖥️</h2>
-</div>
-
-```console
-AkilaInduwara@github:~$ neofetch
-
-                   .~vVeZNgQBBBQQg9Ze1v~.                   AkilaInduwara@github
-           `^}%B@@@@@@@@@@@@@@@@@@@@@@@@@@8%}=`             -------------------
-        `o8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@8o`          Uptime: 24 Years
-      -Q@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Q-        Languages: Java, Python, C++, JavaScript, PHP
-    .g@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@g.      Libraries: TensorFlow, Keras, Spring Boot, React
-   )@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@)     Databases: MySQL
-  Y@@@@@@@@@@@@@@@@P'     '9@@@@@@@@@@@@@@@@@@@@@@@@@@@Y    Tools: Git, Postman, AWS
- g@@@@@@@@@@@@@@@D           4@@@@@@@@@@@@@@@@@@@@@@@@@a    ML: Scikit-learn, Pandas, NumPy, Deep Learning
- "@@@@@@@@@@@@@E              B@@@@@@@@@@@@@@@@@@@@@@@"     Algorithms: CNN, ANN, RNN, LightGBM, XGBoost
- .B@@@@@@@@@@@5               C@@@@@@@@@@@@@@@@@@@@@B.      Education: BSc Computer Science
-  a@@@@@@@@@@@h               s@@@@@@@@@@@@@@@@@@@@@a       Location: Colombo, Sri Lanka
-   6@@@@@@@@@@0               e@@@@@@@@@@@@@@@@@@6
-    'B@@@@@@@@@w             w@@@@@@@@@@@@@@@@@B'
-      '$@@@@@@@@@q         q@@@@@@@@@@@@@@@$'
-
-AkilaInduwara@github:~$ ls -la projects/
-
-drwxr-xr-x  AI-Resource-Detection   LumiStone: underground resource detection with ML & Deep Learning
-drwxr-xr-x  Hand-Signal-Detection   Real-time gesture recognition using SSD model
-drwxr-xr-x  Bookstore-API           RESTful API development using JAX-RS and JSON
-drwxr-xr-x  Cancer-Prediction       ML models for breast cancer mortality prediction
-drwxr-xr-x  Ticket-Booking          Multi-threaded booking system with Spring Boot & React
-drwxr-xr-x  Snake-Game              Classic game implementation using Java Swing
-drwxr-xr-x  Calculator-Apps         Error-handling applications in Java & C++
-
-AkilaInduwara@github:~$ ./display_stats.sh
+```javascript
+const akilaInduwara = {
+  education: "BSc in Computer Science at University of Westminster",
+  interests: ["Machine Learning", "Full Stack Development", "Algorithm Design", "Innovation"],
+  skills: {
+    programming: ["Java", "C++", "Python", "PHP", "JavaScript", "TypeScript"],
+    machineLearning: ["TensorFlow", "Keras", "Scikit-learn", "Pandas", "NumPy"],
+    webDev: ["Spring Boot", "React", "RESTful APIs", "MySQL"],
+    tools: ["Git", "Postman", "AWS"]
+  },
+  currentFocus: "Building AI-powered solutions and robust web applications",
+  lifePhilosophy: "Dedicated to innovation, excellence, and continuous learning"
+};
 ```
 
-<!-- GitHub stats with custom styling -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AkilaInduwara&show_icons=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff&icon_color=6C63FF&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AkilaInduwara&show_icons=true&title_color=6C63FF&icon_color=6C63FF&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=AkilaInduwara&show_icons=true&count_private=true">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AkilaInduwara&background=0d1117&border=0d1117&ring=6C63FF&fire=FFA500&currStreakLabel=6C63FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=gray">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AkilaInduwara&ring=6C63FF&fire=FFA500&currStreakLabel=6C63FF">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilaInduwara">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=AkilaInduwara&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-<!-- Programming language graph with hexagon style -->
-<div align="center">
-  <h2>⚡ Language Arsenal ⚡</h2>
-</div>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills & Technologies
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaInduwara&layout=compact&bg_color=0d1117&title_color=6C63FF&text_color=ffffff&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaInduwara&layout=compact&title_color=6C63FF">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaInduwara&layout=compact">
-  </picture>
-</div>
-
-<!-- Skills visualization with hexagons -->
-<div align="center">
-  <h2>🛠️ Technology Spectrum 🛠️</h2>
-</div>
-
-<div align="center">
-<table>
+<table align="center">
   <tr>
-    <td>
-      <div align="center">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="80" height="80" />
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="CPP" width="80" height="80" />
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
-      </div>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
     </td>
   </tr>
 </table>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilaInduwara&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkilaInduwara&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
 </div>
 
-<!-- Machine Learning & Data Science section with wave transition -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
-</div>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
-<!-- Activity graph with unique styling -->
-<br>
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="AkilaInduwara's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AkilaInduwara&theme=react-dark&hide_border=true&line=6C63FF&point=FFFFFF&area=true&radius=10" />
-  </a>
-</div>
-
-<!-- Contribution snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<!-- Code bracket signature -->
-<div align="center">
-  <br>
-  <pre align="center">
-  /**
-   * "Programming isn't about what you know; it's about what you can figure out."
-   * 
-   * @author Akila Induwara
-   * @version 1.0
-   * @since 2025-03-17
-   */
-  </pre>
-  <br>
+  <a href="#"><img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AkilaInduwara&theme=tokyo-night" /></a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=AkilaInduwara&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🚀 𝐒𝐡𝐨𝐰 𝐬𝐨𝐦𝐞 ❤️ 𝐛𝐲 𝐬𝐭𝐚𝐫𝐫𝐢𝐧𝐠 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬! 🚀</h3>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
