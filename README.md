@@ -1,40 +1,41 @@
-# Akila Induwara Kaluarachchi
-
-![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CBBF7&random=false&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="header"/>
 </div>
+
+<h1 align="center">𝐀𝐊𝐈𝐋𝐀 𝐈𝐍𝐃𝐔𝐖𝐀𝐑𝐀</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akila-induwara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:k.a.akilainduwara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/AkilaInduwara"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://akila-induwara-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:k.a.akilainduwara@gmail.com"><img src="https://img.shields.io/badge/-k.a.akilainduwara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akila-induwara/"><img src="https://img.shields.io/badge/-Akila_Induwara-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AkilaInduwara"><img src="https://img.shields.io/badge/-AkilaInduwara-grey?style=flat-square&logo=github"/></a>
+  <a href="https://www.akilainduwara.com"><img src="https://img.shields.io/badge/-akilainduwara.com-00C7B7?style=flat-square&logo=appveyor&logoColor=white"/></a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkilaInduwara&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+  <a href="https://github.com/AkilaInduwara?tab=followers">
+    <img src="https://img.shields.io/github/followers/AkilaInduwara?tab=followers?label=blue&logo=github&style=flat-square" alt="GitHub followers" />
+  </a>
+</p>
 
-```javascript
-const akilaInduwara = {
-  education: "BSc in Computer Science at University of Westminster",
-  interests: ["Machine Learning", "Full Stack Development", "Algorithm Design", "Innovation"],
-  skills: {
-    programming: ["Java", "C++", "Python", "PHP", "JavaScript", "TypeScript"],
-    machineLearning: ["TensorFlow", "Keras", "Scikit-learn", "Pandas", "NumPy"],
-    webDev: ["Spring Boot", "React", "RESTful APIs", "MySQL"],
-    tools: ["Git", "Postman", "AWS"]
-  },
-  currentFocus: "Building AI-powered solutions and robust web applications",
-  lifePhilosophy: "Dedicated to innovation, excellence, and continuous learning"
-};
-```
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkilaInduwara&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1" alt="AkilaInduwara" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkilaInduwara&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkilaInduwara&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="AkilaInduwara's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaInduwara&layout=compact&theme=radical" alt="Top Languages" height="170" />
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills & Technologies
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilaInduwara&theme=radical" alt="AkilaInduwara's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkilaInduwara&theme=rogue" alt="AkilaInduwara's GitHub Activity Graph" />
+</div>
+
+<h2 align="center">⚡ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐭𝐚𝐜𝐤 ⚡</h2>
 
 <table align="center">
   <tr>
@@ -91,32 +92,51 @@ const akilaInduwara = {
   </tr>
 </table>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+<h2 align="center">🖥️ 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 🖥️</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilaInduwara&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-%2302569B.svg?style=for-the-badge&logo=&logoColor=white" alt="seaborn"/>
+</p>
+
+<h2 align="center">📊 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 📊</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="springboot"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white" alt="rest"/>
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="socket.io"/>
+  <img src="https://img.shields.io/badge/http%20protocols-%23000000.svg?style=for-the-badge&logo=http&logoColor=white" alt="http"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
+</p>
+
+<h2 align="center">🔥 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬 🔥</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<h2 align="center">📫 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 📫</h2>
+
+<p align="center">
+  <a href="mailto:k.a.akilainduwara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-k.a.akilainduwara@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="tel:+94712025476">
+    <img src="https://img.shields.io/badge/Phone-071_2025476-blue?style=for-the-badge&logo=phone" alt="Phone">
+  </a>
+  <a href="https://www.linkedin.com/in/akila-induwara/">
+    <img src="https://img.shields.io/badge/LinkedIn-Akila_Induwara-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkilaInduwara&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
-
-<div align="center">
-  <a href="#"><img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AkilaInduwara&theme=tokyo-night" /></a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkilaInduwara&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <h3>🚀 𝐒𝐡𝐨𝐰 𝐬𝐨𝐦𝐞 ❤️ 𝐛𝐲 𝐬𝐭𝐚𝐫𝐫𝐢𝐧𝐠 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬! 🚀</h3>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>
