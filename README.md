@@ -1,168 +1,142 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image">
-</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="header"/>
+</div>
 
-<!-- 3D Text Animation -->
+<h1 align="center">𝐀𝐊𝐈𝐋𝐀 𝐈𝐍𝐃𝐔𝐖𝐀𝐑𝐀</h1>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=500&color=2C6FF2&background=FF22C100&center=true&vCenter=true&random=false&width=600&height=70&lines=Akila+Induwara;Machine+Learning+Expert;Full+Stack+Developer;AI+Innovator" alt="Typing SVG" /></a>
+  <a href="mailto:k.a.akilainduwara@gmail.com"><img src="https://img.shields.io/badge/-k.a.akilainduwara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akila-induwara/"><img src="https://img.shields.io/badge/-Akila_Induwara-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AkilaInduwara"><img src="https://img.shields.io/badge/-AkilaInduwara-grey?style=flat-square&logo=github"/></a>
+  <a href="https://www.akilainduwara.com"><img src="https://img.shields.io/badge/-akilainduwara.com-00C7B7?style=flat-square&logo=appveyor&logoColor=white"/></a>
 </p>
 
-<!-- Wavy Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<!-- Social Media Animated Icons -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/akila-induwara/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Akila LinkedIn"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkilaInduwara&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+  <a href="https://github.com/AkilaInduwara?tab=followers">
+    <img src="https://img.shields.io/github/followers/AkilaInduwara?tab=followers?label=blue&logo=github&style=flat-square" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/AkilaInduwara" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Akila GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkilaInduwara&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1" alt="AkilaInduwara" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkilaInduwara&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="AkilaInduwara's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkilaInduwara&layout=compact&theme=radical" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilaInduwara&theme=radical" alt="AkilaInduwara's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkilaInduwara&theme=rogue" alt="AkilaInduwara's GitHub Activity Graph" />
+</div>
+
+<h2 align="center">⚡ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐭𝐚𝐜𝐤 ⚡</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">🖥️ 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 🖥️</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-%2302569B.svg?style=for-the-badge&logo=&logoColor=white" alt="seaborn"/>
+</p>
+
+<h2 align="center">📊 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 📊</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="springboot"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white" alt="rest"/>
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="socket.io"/>
+  <img src="https://img.shields.io/badge/http%20protocols-%23000000.svg?style=for-the-badge&logo=http&logoColor=white" alt="http"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
+</p>
+
+<h2 align="center">🔥 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬 🔥</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<h2 align="center">📫 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 📫</h2>
+
+<p align="center">
+  <a href="mailto:k.a.akilainduwara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-k.a.akilainduwara@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="mailto:k.a.akilainduwara@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Akila Gmail"/>
+  <a href="tel:+94712025476">
+    <img src="https://img.shields.io/badge/Phone-071_2025476-blue?style=for-the-badge&logo=phone" alt="Phone">
   </a>
-  <a href="https://akila-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Akila Portfolio"/>
+  <a href="https://www.linkedin.com/in/akila-induwara/">
+    <img src="https://img.shields.io/badge/LinkedIn-Akila_Induwara-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-</div>
-
-<!-- Animated Intro Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42" />
-  Who Am I?
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42" />
-</h2>
+</p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>
-
-```yaml
-name: Akila Induwara Kaluarachchi
-location: Colombo, Sri Lanka
-education:
-  degree: BSc in Computer Science
-  institution: University of Westminster
-current_focus: AI-Powered Resource Detection & Deep Learning Applications
-
-professional_interests:
-  - Machine Learning & Deep Learning Architecture Design
-  - Full Stack Application Development
-  - Concurrent Programming & Multithreading
-  - Software System Design & Architecture
-  - Natural Language Processing & Computer Vision
-
-life_philosophy: "Transform challenges into innovation opportunities"
-```
-
-<!-- Animated Skills Section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="42" />
-  Tech Arsenal
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="42" />
-</h2>
-
-<!-- Animated Skill Progress Bars -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5b66c1af/images/banner.gif" width="100%">
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="100">
-      </td>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="100">
-      </td>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-      </td>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-      </td>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-      </td>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-      </td>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-      </td>
-      <td>
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-      </td>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,php,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=react,spring,tensorflow,mysql,git,postman,aws,github" /><br>
-</div>
-
-<!-- GitHub Stats with Animation -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="42" />
-  GitHub Metrics
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="42" />
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AkilaInduwara&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilaInduwara&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Fancy Animated Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkilaInduwara&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<!-- Cool Trophy Display -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkilaInduwara&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" />
-</div>
-
-<!-- Animated Snake contribution -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-  <br><br>
-  
-  <h3>💻 While ( ! ( succeed = try() ) );</h3>
-  
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=AkilaInduwara&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=90" width="100%"/>
