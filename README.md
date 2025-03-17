@@ -1,94 +1,90 @@
-<!-- Updated GitHub Profile README -->
+<!-- 🚀 Stunning GitHub Profile ReadMe -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Software+Development+Enthusiast;Full-Stack+Developer+|+Innovator;Passionate+about+AI,+ML,+%26+Web+Development" alt="Typing SVG" />
 </div>
 
-<h1 align="center">𝐀𝐊𝐈𝐋𝐀 𝐈𝐍𝐃𝐔𝐖𝐀𝐑𝐀</h1>
+<h1 align="center">Hi, I'm Akila Induwara 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+ML+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif" width="300px">
 </p>
 
 <p align="center">
-  <a href="mailto:k.a.akilainduwara@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/akila-induwara/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AkilaInduwara"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/></a>
-  <a href="https://www.akilainduwara.me"><img src="https://img.shields.io/badge/-akilainduwara.me-00C7B7?style=flat-square&logo=appveyor&logoColor=white"/></a>
+  🚀 **Machine Learning & Software Development Enthusiast**  
+  🔥 **Passionate about Innovation & AI**  
+  🎨 **Love Building Interactive & Engaging Applications**  
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 **About Me**
 - 🎓 **Computer Science Undergraduate**
 - 💻 **Passionate about Java, ML & Web Development**
-- 🏆 **Coding Enthusiast | Open Source Contributor**
-- 🌱 **Currently Learning Spring Boot & Deep Learning**
-- 🛠 **Building innovative software solutions**
-  
----
-
-## 🎯 GitHub Stats & Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkilaInduwara&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="AkilaInduwara's GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilaInduwara&theme=radical" alt="AkilaInduwara's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkilaInduwara&theme=rogue" alt="AkilaInduwara's GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+- 🌱 **Currently exploring Deep Learning & Spring Boot**
+- 🏆 **Competitive Programmer | Open Source Contributor**
+- ✨ **Building Next-Gen AI-Powered Applications**
 
 ---
 
-## ⚡ Technology Stack
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/><br>Java</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65"/><br>C++</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><br>Python</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/><br>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48"/><br>Spring Boot</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
-  </tr>
-</table>
+## 🎯 **GitHub Stats & Contributions**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkilaInduwara&show_icons=true&count_private=true&hide=prs,issues&theme=radical" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilaInduwara&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkilaInduwara&theme=tokyo-night" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
 
 ---
 
-## 🔬 Machine Learning & AI
-- 🤖 **Deep Learning & Computer Vision**
-- 📊 **Data Science & AI Development**
-- 🚀 **TensorFlow | Keras | Scikit-learn**
-  
+## 🛠️ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,js,react,html,css,tailwind,mysql,mongodb,git,github,linux" alt="Tech Stack" />
 </p>
 
 ---
 
-## 💎 Special Project: **Gem Finder & Water Finder**
-🚀 **Using Ultrasonic Waves & Machine Learning**
-- 📡 **Detects underground gems & water using AI**
-- 🔬 **Analyzes reflected waves for accuracy**
-- 🖥 **Displays real-time results on Laptop**
-  
+## 🤖 **Machine Learning & AI**
+🚀 **Exploring AI for Real-World Solutions**  
+🔥 **Specializing in Computer Vision & NLP**  
+💡 **Deep Learning | Neural Networks | TensorFlow | Keras**  
+
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif" height="150px" />
+</div>
+
 ---
 
-## 📫 Reach Me
+## 💎 **Special Project: Gem Finder & Water Finder**
+🚀 **Ultrasonic-Based Earth Scanner using AI**  
+🔬 **Detects Underground Gems & Water**  
+📡 **AI-Driven Wave Analysis for Accuracy**  
+💻 **Live Data Visualization on Laptop**  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400px">
+</div>
+
+---
+
+## 🎨 **Portfolio & Projects**
+🌐 **[🔗 My Portfolio](https://www.akilainduwara.me)**  
+💻 **[GitHub Projects](https://github.com/AkilaInduwara?tab=repositories)**  
+📜 **[Tech Blog](https://dev.to/akilainduwara)**  
+
+---
+
+## 📫 **Let's Connect!**
 <p align="center">
-  <a href="mailto:k.a.akilainduwara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-k.a.akilainduwara@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/akila-induwara/">
-    <img src="https://img.shields.io/badge/LinkedIn-Akila_Induwara-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
+  <a href="mailto:k.a.akilainduwara@gmail.com"><img src="https://img.shields.io/badge/Email-k.a.akilainduwara@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/akila-induwara/"><img src="https://img.shields.io/badge/LinkedIn-Akila_Induwara-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/akilainduwara"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://github.com/AkilaInduwara"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"></a>
 </p>
 
 <div align="center">
