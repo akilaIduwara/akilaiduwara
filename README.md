@@ -6,7 +6,7 @@
 <h1 align="center">𝐀𝐊𝐈𝐋𝐀 𝐈𝐍𝐃𝐔𝐖𝐀𝐑𝐀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=+Software+Engineer+Enthusiast+%7C+ML+Engineer+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Machine+Learning+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=+Soft+ware+Engineer+Enthusiast+%7C+ML+Engineer+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Machine+Learning+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
 </p>
 
 <p align="center">
