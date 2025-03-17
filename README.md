@@ -162,3 +162,12 @@
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+
+
+Show Image
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Machine+Learning+Developer;Algorithm+Designer;Java+%26+C%2B%2B+Programmer;Computer+Science+Student" alt="Typing SVG" /></a>
+</p>
+<a href="https://github.com/akilainduwara?tab=repositories">
+  <img align="right" src="https://github-stats-alpha.vercel.app/api?username=akilainduwara&
